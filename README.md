@@ -16,11 +16,11 @@ This project allows users to input a directory containing video files, and the s
 
 1. **Python 3.6+**: Ensure that Python is installed on your machine. You can check the version by running:
 
-   python --version
+    python --version
 
 2. **Required Libraries**: This project uses the `moviepy` library to handle video files. Install the required dependencies by running:
 
-   pip install -r requirements.txt
+    pip install -r requirements.txt
 
 If you don't have a `requirements.txt` file, you can install `moviepy` manually:
 
@@ -30,15 +30,15 @@ If you don't have a `requirements.txt` file, you can install `moviepy` manually:
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/justanappearance/video-time-sum.git
+    git clone https://github.com/justanappearance/video-time-sum.git
 
 2. Navigate to the project directory:
 
-   cd video-time-sum
+    cd video-time-sum
 
 3. Run the script, providing the path to the directory containing your video files:
 
-   python video_time_sum.py <path-to-video-directory>
+    python video_time_sum.py <path-to-video-directory>
 
 Example:
 
