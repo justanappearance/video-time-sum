@@ -7,7 +7,7 @@ This project allows users to input a directory containing video files, and the s
 ## Features
 
 - **Calculate Total Duration**: Adds up the total length of all video files in a specified directory.
-- **Supports Multiple Formats**: Works with common video file formats like .mp4, .avi, .mov, etc.
+- **Supports Multiple Formats**: Works with common video file formats like `.mp4`, `.avi`, `.mov`, etc.
 - **Readable Output**: Outputs the total time in hours and minutes.
 
 ## Installation
@@ -20,13 +20,13 @@ This project allows users to input a directory containing video files, and the s
 python --version
 ```
 
-2. **Required Libraries**: This project uses the moviepy library to handle video files. Install the required dependencies by running:
+2. **Required Libraries**: This project uses the `moviepy` library to handle video files. Install the required dependencies by running:
 
 ```
 pip install -r requirements.txt
 ```
 
-If you don't have a requirements.txt file, you can install moviepy manually:
+If you don't have a `requirements.txt` file, you can install `moviepy` manually:
 
 ```
 pip install moviepy
@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-**MoviePy**: Used for video processing. MoviePy documentation
+**`MoviePy`**: Used for video processing. MoviePy documentation
